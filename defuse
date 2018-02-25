@@ -1,0 +1,6 @@
+'''all def'''
+
+def pnf():
+    print('yee this is from module')
+    
+    
